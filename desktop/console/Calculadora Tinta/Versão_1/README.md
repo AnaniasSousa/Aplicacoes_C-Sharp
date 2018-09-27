@@ -12,7 +12,7 @@
 > Exibe mensagens de erro amigaveis.
 
  ---------------- ESPECIFICAÇÕES TÉCNICAS ----------------- 
-> Classes
+> Classes >
 > Calculadora;
 > Program (setup).
 
