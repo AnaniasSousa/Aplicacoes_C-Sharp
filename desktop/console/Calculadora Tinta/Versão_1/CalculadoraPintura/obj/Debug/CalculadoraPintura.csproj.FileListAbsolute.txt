@@ -1,0 +1,14 @@
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe.config
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\bin\Debug\CalculadoraPintura.pdb
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csprojAssemblyReference.cache
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.exe
+C:\wamp64\www\AULAS\NET\C#\Criando uma calculadora de pintura com C#\CalculadoraPintura\CalculadoraPintura\obj\Debug\CalculadoraPintura.pdb
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe.config
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\bin\Debug\CalculadoraPintura.exe
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\bin\Debug\CalculadoraPintura.pdb
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\obj\Debug\CalculadoraPintura.csprojAssemblyReference.cache
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\obj\Debug\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\obj\Debug\CalculadoraPintura.exe
+C:\wamp64\www\PROJETOS\GITHUB\Aplicacoes_C-Sharp\desktop\console\Calculadora Tinta\Versão_1\CalculadoraPintura\obj\Debug\CalculadoraPintura.pdb

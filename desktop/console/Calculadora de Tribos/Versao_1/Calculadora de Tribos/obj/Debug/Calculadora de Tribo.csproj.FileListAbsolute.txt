@@ -1,0 +1,7 @@
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\bin\Debug\MiinhaCalculadora de Signos.exe.config
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\bin\Debug\MiinhaCalculadora de Signos.exe
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\bin\Debug\MiinhaCalculadora de Signos.pdb
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\obj\Debug\Calculadora de Tribo.csprojAssemblyReference.cache
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\obj\Debug\Calculadora de Tribo.csproj.CoreCompileInputs.cache
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\obj\Debug\MiinhaCalculadora de Signos.exe
+C:\wamp64\www\AULAS\NET\C#\Minha Primeira Aplicação C#\MiinhaCalculadora de Signos\MiinhaCalculadora de Signos\obj\Debug\MiinhaCalculadora de Signos.pdb
